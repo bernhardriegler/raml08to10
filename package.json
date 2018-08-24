@@ -1,0 +1,12 @@
+{
+  "name": "raml08To10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache",
+  "dependencies": {
+    "api-spec-transformer": "^0.2.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
